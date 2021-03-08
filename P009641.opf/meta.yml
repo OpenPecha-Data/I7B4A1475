@@ -4,4 +4,24 @@ source_metadata:
   id: bdr:W2DB4570
   title: གསུང་འབུམ（དཔེ་བསྡུར་མ）། ཀུན་དགའ་རྒྱལ་མཚན།
   author: ''
-  volumes: {}
+  volumes:
+    381696965bb34b5199a0b1bac87f2346:
+      image_group_id: I1PD34019
+      title: ''
+      volume_number: 1
+      total_pages: 568
+    69dda6fdae15421cb3c75b3349b191b0:
+      image_group_id: I1PD34020
+      title: ''
+      volume_number: 2
+      total_pages: 518
+    7298f8a3c3f140fca3674bdca64aed2f:
+      image_group_id: I1PD34021
+      title: ''
+      volume_number: 3
+      total_pages: 462
+    264e0667f095427e8a3259d7b591e663:
+      image_group_id: I1PD34022
+      title: ''
+      volume_number: 4
+      total_pages: 348
